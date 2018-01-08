@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/AppStore.iml" filepath="$PROJECT_DIR$/AppStore.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/BKAppStation.iml" filepath="$PROJECT_DIR$/.idea/BKAppStation.iml" />
       <module fileurl="file://$PROJECT_DIR$/FishDownloader/FishDownloader.iml" filepath="$PROJECT_DIR$/FishDownloader/FishDownloader.iml" />
       <module fileurl="file://$PROJECT_DIR$/FishHttp/FishHttp.iml" filepath="$PROJECT_DIR$/FishHttp/FishHttp.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
